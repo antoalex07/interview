@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eames chair
+* source:	https://sketchfab.com/3d-models/eames-chair-a699822777e94849b1417a2a3c185e10
+* author:	valeduque_portfolio (https://sketchfab.com/valeduque_portfolio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eames chair" (https://sketchfab.com/3d-models/eames-chair-a699822777e94849b1417a2a3c185e10) by valeduque_portfolio (https://sketchfab.com/valeduque_portfolio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
